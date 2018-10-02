@@ -1,13 +1,10 @@
-title: Namaste Ann Arbor
-author: Ankit Goila
-email: agoila@umich.edu
-description: > # this means to ignore newlines until "baseurl:"
-  An Indian's experiences in Ann Arbor, formulated as 
-  a series of travelogues, DIY blog posts, vlogs and interesting stories/observations.
-
+title: "Namaste Ann Arbor"
+author: "Ankit Goila"
+email: "agoila@umich.edu"
+description: "An Indian's experiences in Ann Arbor, formulated as a series of travelogues, DIY blog posts, vlogs and interesting stories/observations."
 # social links
-twitter_username: @GoilaA
-github_username:  @agoila
+twitter_username: GoilaA
+github_username: agoila
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
